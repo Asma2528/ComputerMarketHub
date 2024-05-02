@@ -1,0 +1,50 @@
+*
+{
+    margin:0px;
+    margin-right:0px;
+    padding:0px;
+}
+
+/* Navigation */
+
+
+#navbar 
+{
+    flex-direction: column;
+}
+
+/* home */
+#home
+{
+    height:360px;
+    padding:2px 15px;
+}
+
+#home::before
+{
+    height:480px;
+}
+
+
+/* services */
+.container
+{
+flex-direction: column;
+}
+
+.box
+{
+    margin:5px 0px;
+    margin-bottom:10px;
+}
+
+
+/* contact us */
+
+
+
+/* footer */
+footer
+{
+    width:100%;
+}
